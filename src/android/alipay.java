@@ -1,4 +1,4 @@
-package cn.hhjjj.alipay;
+package cn.bagefly.alipay;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
