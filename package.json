@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-alipay",
+  "version": "1.0.0",
+  "description": "a cordova plugin, a JS version of Alipay SDK(20170725)",
+  "cordova": {
+    "id": "cordova-plugin-alipay-v2",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "alipay",
+    "cordova-plugin-alipay",
+    "cordova-plugin-alipay-v2"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagefly/cordova-plugin-alipay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bagefly/cordova-plugin-alipay/issues"
+  },
+  "homepage": "https://github.com/bagefly/cordova-plugin-alipay#readme",
+  "author": "bagefly",
+  "license": "ISC"
+}
