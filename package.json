@@ -15,7 +15,7 @@
     "cordova-ios",
     "alipay",
     "cordova-plugin-alipay",
-    "cordova-plugin-alipay-v2"
+    "cordova-plugin-alipay-v1"
   ],
   "repository": {
     "type": "git",
